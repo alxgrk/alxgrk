@@ -1,4 +1,12 @@
-## Hi there 👋
+<div align="center" >
+  <p width="100%">
+    <img width="60%" alt="card with infos about github activity" src="https://github.com/alxgrk/github-stats-remotion/blob/main/out/readme.gif?raw=true" />
+  </p>
+
+  <h2 text-align="center">Nice to meet you 👋</h2>
+</div>
+
+
 
 <!--
 **alxgrk/alxgrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
